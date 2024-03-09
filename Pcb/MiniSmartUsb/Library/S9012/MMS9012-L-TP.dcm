@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMS9012-L-TP
+D Small Signal Bipolar Transistors
+K
+F https://www.mccsemi.com/pdf/Products/MMS9012(SOT-23).pdf
+$ENDCMP
+#
+#End Doc Library

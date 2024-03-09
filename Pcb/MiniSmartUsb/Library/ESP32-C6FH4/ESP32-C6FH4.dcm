@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-C6FH4
+D Multiprotocol Modules SMD IC ESP32-C6FH4, RISC-V single-core MCU, 2.4G Wi-Fi 6 & BLE 5.0 combo, 4 MB flash, QFN 32-pin,
+K
+F https://www.mouser.ch/ProductDetail/Espressif-Systems/ESP32-C6FH4?qs=sGAEpiMZZMu3sxpa5v1qriveB5Rxa06Y9iJOmwW58jU%3D
+$ENDCMP
+#
+#End Doc Library

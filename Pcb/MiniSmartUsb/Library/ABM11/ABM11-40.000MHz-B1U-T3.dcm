@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM11-40.000MHz-B1U-T3
+D 360 MHz XO (Standard) CML Oscillator 1.8V Enable/Disable 8-SMD, No Lead
+K
+F https://abracon.com/Resonators/ABM11.pdf
+$ENDCMP
+#
+#End Doc Library

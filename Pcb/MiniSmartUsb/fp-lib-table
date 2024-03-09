@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-C6FH4")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-C6FH4")(options "")(descr ""))
+)
